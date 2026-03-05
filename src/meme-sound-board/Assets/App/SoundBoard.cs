@@ -1,12 +1,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SoundBoard : MonoBehaviour
 {
     [SerializeField] private AudioSource _audioSource;
     [SerializeField] private BtnSfx _btnPrefab;
     [SerializeField] private List<AudioClip> _clips;
+    [SerializeField] private Button _btnStopSfx;
 
     private BtnSfx _btnSfx;
     
@@ -18,6 +20,7 @@ public class SoundBoard : MonoBehaviour
             bs.Init(audioClip.name,Clicked);
         }
         _btnPrefab.gameObject.SetActive(false);
+        _btnStopSfx.onClick.AddListener(Stop);
     }
 
     public void Stop()
@@ -45,7 +48,6 @@ public class SoundBoard : MonoBehaviour
 
     private void Update()
     {
-        return;
         if (_btnSfx==null) return;
         
         if (!_audioSource.isPlaying && _audioSource.time >= _audioSource.clip.length)
