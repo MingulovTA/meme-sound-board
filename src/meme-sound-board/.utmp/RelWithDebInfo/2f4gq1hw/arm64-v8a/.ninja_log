@@ -1,0 +1,12 @@
+# ninja log v5
+0	4411	7944787521548422	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bf5cd820dc1b4f12
+22	4536	7944787524279674	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	53bfc58aa0acfc35
+9	4549	7944787523088254	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	43ee235fbd4c7c47
+29	5137	7944787529668027	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	33ba4c554956a30
+15	5248	7944787532068664	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d79659697ad7c643
+87	5358	7944787530845390	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a31a4696251587d1
+4416	5552	7944787534696414	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	85062d909b173f81
+48	5603	7944787534884076	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8e2eb494148acaa1
+41	5621	7944787535659509	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cbab3044ac59b649
+5621	6416	7944787540140778	D:/JOB/meme-sound-board/src/meme-sound-board/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f4gq1hw/obj/arm64-v8a/libgame.so	9db6b77e12f09e6f
+5552	6530	7944787542807927	D:/JOB/meme-sound-board/src/meme-sound-board/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f4gq1hw/obj/arm64-v8a/libswappywrapper.so	313141bdc074303a

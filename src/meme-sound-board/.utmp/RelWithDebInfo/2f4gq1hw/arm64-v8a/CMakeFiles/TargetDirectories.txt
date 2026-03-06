@@ -1,0 +1,8 @@
+D:/JOB/meme-sound-board/src/meme-sound-board/.utmp/RelWithDebInfo/2f4gq1hw/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/JOB/meme-sound-board/src/meme-sound-board/.utmp/RelWithDebInfo/2f4gq1hw/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/JOB/meme-sound-board/src/meme-sound-board/.utmp/RelWithDebInfo/2f4gq1hw/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/JOB/meme-sound-board/src/meme-sound-board/.utmp/RelWithDebInfo/2f4gq1hw/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/JOB/meme-sound-board/src/meme-sound-board/.utmp/RelWithDebInfo/2f4gq1hw/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/JOB/meme-sound-board/src/meme-sound-board/.utmp/RelWithDebInfo/2f4gq1hw/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/JOB/meme-sound-board/src/meme-sound-board/.utmp/RelWithDebInfo/2f4gq1hw/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/JOB/meme-sound-board/src/meme-sound-board/.utmp/RelWithDebInfo/2f4gq1hw/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
